@@ -46,3 +46,10 @@
 3rd Party				
 Django admin				x
 APIs				x
+
+## Notes:
+### User accounts
+- Admin account to use for this site: **admin02**
+- Password: **Checklist1!**
+- User account: **User01**
+- Password: **Checklist1!**
