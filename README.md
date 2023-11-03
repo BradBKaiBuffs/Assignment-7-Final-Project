@@ -8,7 +8,7 @@
 - *Views*			
 - Class-Based Views	x			
 - *URLs*			
-- Routing	x			
+- *Routing*			
 - Chapter 4				
 - Model Classes	x			
 - Django Admin configuration	x			
