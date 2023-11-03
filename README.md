@@ -10,8 +10,8 @@
 - *URLs*			
 - *Routing*			
 - Chapter 4				
-- Model Classes	x			
-- Django Admin configuration	x			
+- *Model Classes*		
+- *Django Admin configuration*			
 - Chapter 5				
 - Static Files	x			
 - Queries	x			
@@ -20,7 +20,7 @@
 - Chapter 7				
 - Authentication	x
 - Chapter 10				
-- Bootstrap	x	
+- *Bootstrap*
 - Chapter16				
 - Securing with SSL	x			
 
