@@ -3,11 +3,11 @@
 ## Baseline implementations:
 
 - Chapter 3				
-- Templates	x			
-- Template Inheritance	x			
-- Views	x			
+- *Templates*			
+- *Template Inheritance*			
+- *Views*			
 - Class-Based Views	x			
-- URLs	x			
+- *URLs*			
 - Routing	x			
 - Chapter 4				
 - Model Classes	x			
