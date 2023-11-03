@@ -43,9 +43,9 @@
 - Custom middlewre			x
 
 # Best implementations:
-3rd Party				
-Django admin				x
-APIs				x
+- 3rd Party				
+- Django admin				x
+- APIs				x
 
 ## Notes:
 ### User accounts
