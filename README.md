@@ -2,26 +2,26 @@
 
 ## Baseline implementations:
 
-- Chapter 3				
-- *Templates*			
-- *Template Inheritance*			
-- *Views*			
-- Class-Based Views	x			
-- *URLs*			
-- *Routing*			
-- Chapter 4				
-- *Model Classes*		
-- *Django Admin configuration*			
-- Chapter 5				
+- *Chapter 3*				
+- **Templates**			
+- **Template Inheritance**			
+- **Views**			
+- **Class-Based Views	x			
+- **URLs**			
+- **Routing**			
+- *Chapter 4*				
+- **Model Classes**		
+- **Django Admin configuration**			
+- *Chapter 5*				
 - Static Files	x			
 - Queries	x			
-- Chapter 6				
+- *Chapter 6*				
 - Class-Based Forms	x			
-- Chapter 7				
+- *Chapter 7*				
 - Authentication	x
-- Chapter 10				
-- *Bootstrap*
-- Chapter16				
+- *Chapter 10*				
+- **Bootstrap**
+- *Chapter16*				
 - Securing with SSL	x			
 
 ## Good implmentations:
