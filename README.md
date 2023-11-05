@@ -13,7 +13,7 @@
 - *Model Classes*		
 - *Django Admin configuration*			
 - **Chapter 5**				
-- Static Files	x			
+- *Static Files*		
 - Queries	x			
 - **Chapter 6**				
 - Class-Based Forms	x			
