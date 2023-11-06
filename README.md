@@ -16,7 +16,7 @@
 - *Static Files*		
 - Queries	x			
 - **Chapter 6**				
-*Class-Based Forms*			
+- *Class-Based Forms*			
 - **Chapter 7**				
 - Authentication	x
 - **Chapter 10**				
