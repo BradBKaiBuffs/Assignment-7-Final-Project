@@ -50,13 +50,13 @@
 - **Chapter 8**
 - *Serving Media Files*
 - *Passwords and Auth x
-# Better implementations:
+## Better implementations:
 - **Chapter 4 and 10**
 - *Add custom view to admin interface x
 - **Chapter 8**
 - *ModelForm and File Uploads x
 
-# Best implementations:
+## Best implementations:
 - **Chapter 12**
 - *Django Admin manage users x
 - *Django REST Framework x
