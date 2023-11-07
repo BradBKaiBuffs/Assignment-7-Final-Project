@@ -1,51 +1,65 @@
 # Assignment #7: Final Project
 
 ## Baseline implementations:
-
-- **Chapter 3**				
-- *Templates*		
-- *Template Inheritance*		
-- *Views*		
+- **Chapter 1**
+- *Basic Views*
+- *URL Mapping*
+- *Templates*
+- *Routing*
+- **Chapter 2**
+- *Working with Databases*
+- *SQL*
+- *Django Models*
+- *Django Migrations*
+- **Chapter 3 and 11**				
 - **Class-Based Views	x			
-- *URLs*			
-- *Routing*			
-- **Chapter 4**				
-- *Model Classes*		
-- *Django Admin configuration*			
+- *Function-Based Views x
+- *Django Template Language x
+- *Template Filters x		
+- **Chapter 4 and 10**				
+- *Django Admin*   
 - **Chapter 5**				
 - *Static Files*		
-- Queries	x			
-- **Chapter 6**				
-- *Class-Based Forms*			
-- **Chapter 7**				
-- Authentication	x
-- **Chapter 10**				
-- *Bootstrap*
-- **Chapter16**				
-- Securing with SSL	x			
+- *Static Urls x			
+- **Chapter 6 and 7**				
+- *Django Forms Classes x
+- *Django ModelForm Class x
+- *Form data validation and retreival x			
+- **Chapter 8**
+- *File Upload x				
+- **Chapter 9**
+- *Sessions x
+- **Chapter 13**
+- *PDF Generation x
+- *CSV Generation(export) x
+- *Graphs and Visualizations x
+- **Chapter 14**
+- *unittest in Django x
+- *Testing Models x
+- **Chapter 15**
+- *python-dotenv or django-configurations x
+- *django-crispy-forms x 	
 
 ## Good implmentations:
-- Chapter 4					
-- Tests		x
-- Chapter 8				
-- Custom user models		x		
-- Ad hoc forms		x
-- Chapter12				
-- Email		x		
-- Chapter 13				
-- django_crispy_forms		x		
-- Chapter 14				
-- authorization		x
-
+- **Chapter 4 and 10**
+- Customize Admin interface x
+- Customize ModelAdmin classes x
+- **Chapter 5**
+- *Use front-end framework (bootstrap)*
+- *Cache invalidation x
+- **Chapter 8**
+- *Serving Media Files*
+- *Passwords and Auth x
 # Better implementations:
-- Chapter16				
-- heroku deployment			x		
-- Custom middlewre			x
+- **Chapter 4 and 10**
+- *Add custom view to admin interface x
+- **Chapter 8**
+- *ModelForm and File Uploads x
 
 # Best implementations:
-- 3rd Party				
-- Django admin				x
-- APIs				x
+- **Chapter 12**
+- *Django Admin manage users x
+- *Django REST Framework x
 
 ## Notes:
 ### User accounts
