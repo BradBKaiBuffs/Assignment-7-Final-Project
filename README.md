@@ -24,7 +24,7 @@
 - **Chapter 6 and 7**				
 - *Django Forms Classes x
 - *Django ModelForm Class x
-- *Form data validation and retreival x			
+- *Form data validation and retrieval x			
 - **Chapter 8**
 - *File Upload x				
 - **Chapter 9**
