@@ -13,17 +13,17 @@
 - *Django Migrations*
 - **Chapter 3 and 11**				
 - **Class-Based Views	x			
-- *Function-Based Views x
-- *Django Template Language x
+- *Function-Based Views*
+- *Django Template Language*
 - *Template Filters x		
 - **Chapter 4 and 10**				
 - *Django Admin*   
 - **Chapter 5**				
 - *Static Files*		
-- *Static Urls x			
+- *Static Urls*			
 - **Chapter 6 and 7**				
-- *Django Forms Classes x
-- *Django ModelForm Class x
+- *Django Forms Classes*
+- *Django ModelForm Class*
 - *Form data validation and retrieval x			
 - **Chapter 8**
 - *File Upload x				
