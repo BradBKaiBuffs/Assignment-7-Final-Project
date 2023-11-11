@@ -26,9 +26,9 @@
 - *Django ModelForm Class*
 - *Form data validation and retrieval x			
 - **Chapter 8**
-- *File Upload x				
+- *File Upload*				
 - **Chapter 9**
-- *Sessions x
+- *Sessions*
 - **Chapter 13**
 - *PDF Generation x
 - *CSV Generation(export) x
