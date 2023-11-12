@@ -1,5 +1,20 @@
 # Assignment #7: Final Project
+## Description:
+This is a website that focuses on the degree checklist for a bachelor's degree. The example checklist is for a Computer Science degree. 
+Navigate to the checklist and it will prompt a sign in as a user. An example user has been prepared under user account section. The checklist uses cripsy forms and submitting a completed form will result in a PDF download and a CSV export of the results in the base directory of the degree_checklist file structure.
+## Notes:
+### User accounts
+- Admin account to use for this site: **admin02**
+- Password: **Checklist1!**
+- User account: **User01**
+- Password: **Checklist1!**
 
+### Packages that are required for installation:
+- django-crispy-forms
+- crispy-bootstrap4
+- django-configurations
+- reportlab
+  
 ## Baseline implementations:
 - **Chapter 1**
 - *Basic Views*
@@ -60,16 +75,3 @@
 - **Chapter 12**
 - *Django Admin manage users x
 - *Django REST Framework x
-
-## Notes:
-### User accounts
-- Admin account to use for this site: **admin02**
-- Password: **Checklist1!**
-- User account: **User01**
-- Password: **Checklist1!**
-
-### Packages that are required for installation:
-- django-crispy-forms
-- crispy-bootstrap4
-- django-configurations
-- reportlab
