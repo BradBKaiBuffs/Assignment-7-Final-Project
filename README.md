@@ -67,3 +67,9 @@
 - Password: **Checklist1!**
 - User account: **User01**
 - Password: **Checklist1!**
+
+### Packages that are required for installation:
+- django-crispy-forms
+- crispy-bootstrap4
+- django-configurations
+- reportlab
