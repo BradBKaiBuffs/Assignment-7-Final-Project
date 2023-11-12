@@ -30,15 +30,15 @@
 - **Chapter 9**
 - *Sessions*
 - **Chapter 13**
-- *PDF Generation x
-- *CSV Generation(export) x
+- *PDF Generation*
+- *CSV Generation(export)*
 - *Graphs and Visualizations x
 - **Chapter 14**
-- *unittest in Django x
-- *Testing Models x
+- *unittest in Django*
+- *Testing Models*
 - **Chapter 15**
-- *python-dotenv or django-configurations x
-- *django-crispy-forms x 	
+- *python-dotenv or django-configurations*
+- *django-crispy-forms* seen in Checklist.html 	
 
 ## Good implmentations:
 - **Chapter 4 and 10**
