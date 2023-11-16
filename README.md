@@ -27,7 +27,7 @@ Navigate to the checklist and it will prompt a sign in as a user. An example use
 - *Django Models*
 - *Django Migrations*
 - **Chapter 3 and 11**				
-- **Class-Based Views	x			
+- *Class-Based Views*			
 - *Function-Based Views*
 - *Django Template Language*
 - *Template Filters x		
