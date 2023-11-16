@@ -69,7 +69,7 @@ Navigate to the checklist and it will prompt a sign in as a user. An example use
 - **Chapter 4 and 10**
 - *Add custom view to admin interface x
 - **Chapter 8**
-- *ModelForm and File Uploads x
+- *ModelForm and File Uploads*
 
 ## Best implementations:
 - **Chapter 12**
