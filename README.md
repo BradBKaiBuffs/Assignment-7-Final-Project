@@ -76,4 +76,4 @@ Navigate to the checklist and it will prompt a sign in as a user. An example use
 ## Best implementations:
 - **Chapter 12**
 - *Django Admin manage users x
-- *Django REST Framework x
+- *Django REST Framework*
