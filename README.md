@@ -58,7 +58,7 @@ Navigate to the checklist and it will prompt a sign in as a user. An example use
 
 ## Good implmentations:
 - **Chapter 4 and 10**
-- Customize Admin interface x
+- Customize Admin interface*
 - Customize ModelAdmin classes x
 - **Chapter 5**
 - *Use front-end framework (bootstrap)*
