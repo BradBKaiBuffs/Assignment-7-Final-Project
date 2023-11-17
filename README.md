@@ -15,6 +15,7 @@ Navigate to the checklist and it will prompt a sign in as a user. An example use
 - django-configurations
 - reportlab
 - plotly
+- djangorestframework
   
 ## Baseline implementations:
 - **Chapter 1**
