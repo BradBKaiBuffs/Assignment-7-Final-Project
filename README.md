@@ -39,7 +39,7 @@ Navigate to the checklist and it will prompt a sign in as a user. An example use
 - **Chapter 6 and 7**				
 - *Django Forms Classes*
 - *Django ModelForm Class*
-- *Form data validation and retrieval x			
+- *Form data validation and retrieval*			
 - **Chapter 8**
 - *File Upload*				
 - **Chapter 9**
