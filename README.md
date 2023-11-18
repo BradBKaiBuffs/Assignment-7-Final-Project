@@ -33,7 +33,7 @@ Navigate to the checklist and it will prompt a sign in as a user. An example use
 - *Class-Based Views*			
 - *Function-Based Views*
 - *Django Template Language*
-- *Template Filters x		
+- *Template Filters*		
 - **Chapter 4 and 10**				
 - *Django Admin*   
 - **Chapter 5**				
