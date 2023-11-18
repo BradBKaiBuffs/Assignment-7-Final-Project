@@ -14,7 +14,6 @@ Navigate to the checklist and it will prompt a sign in as a user. An example use
 - crispy-bootstrap4
 - django-configurations
 - reportlab
-- plotly
 - djangorestframework
 - matplotlib
   
