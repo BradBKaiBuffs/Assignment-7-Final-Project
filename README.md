@@ -16,6 +16,7 @@ Navigate to the checklist and it will prompt a sign in as a user. An example use
 - reportlab
 - plotly
 - djangorestframework
+- matplotlib
   
 ## Baseline implementations:
 - **Chapter 1**
@@ -49,7 +50,7 @@ Navigate to the checklist and it will prompt a sign in as a user. An example use
 - **Chapter 13**
 - *PDF Generation*
 - *CSV Generation(export)*
-- *Graphs and Visualizations x
+- *Graphs and Visualizations*
 - **Chapter 14**
 - *unittest in Django*
 - *Testing Models*
@@ -59,8 +60,8 @@ Navigate to the checklist and it will prompt a sign in as a user. An example use
 
 ## Good implmentations:
 - **Chapter 4 and 10**
-- Customize Admin interface*
-- Customize ModelAdmin classes x
+- *Customize Admin interface*
+- *Customize ModelAdmin classes x
 - **Chapter 5**
 - *Use front-end framework (bootstrap)*
 - *Cache invalidation x
@@ -69,7 +70,7 @@ Navigate to the checklist and it will prompt a sign in as a user. An example use
 - *Passwords and Auth x
 ## Better implementations:
 - **Chapter 4 and 10**
-- *Add custom view to admin interface x
+- *Add custom view to admin interface*
 - **Chapter 8**
 - *ModelForm and File Uploads*
 
