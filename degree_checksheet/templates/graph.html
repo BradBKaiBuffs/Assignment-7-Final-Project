@@ -1,0 +1,11 @@
+{% extends 'base.html' %}
+{% block title %} Graph {% endblock %}
+
+{% block content %}
+    <ul>
+        <li>Test page</li>
+    </ul>
+    {%  autoescape off %}
+        {{ graph_div|safe }}
+    {% endautoescape %}
+{% endblock %}

@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+<head>
+    <meta charset="UTF-8">
+    <title>Uploads</title>
+</head>
+{% block content %}
+<body>
+    <form method="post" enctype="multipart/form-data">
+        {% csrf_token %}
+        {{ form.as_p }}
+        <button type="submit">Submit</button>
+    </form>
+{% endblock %}
+</body>
+</html>
