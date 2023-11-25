@@ -10,6 +10,8 @@ from reportlab.pdfgen import canvas
 from reportlab.lib.units import cm
 # upload form
 from .forms import UploadForm
+from django.conf import settings
+from .models import Course
 
 
 
