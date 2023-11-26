@@ -6,7 +6,7 @@ Navigate to the checklist and it will prompt a sign in as a user. An example use
 ### User accounts
 - Admin account to use for this site: **admin02**
 - Password: **Checklist1!**
-- User account: **User01**
+- User account: **Staff02**
 - Password: **Checklist1!**
 
 ### Packages that are required:
