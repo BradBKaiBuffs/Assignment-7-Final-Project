@@ -8,11 +8,11 @@ from crispy_forms.layout import Submit
 from django.core.exceptions import ValidationError
 
 def validate_email(value):
-    if value.split("@")[-1].lower() != "email.com":
-        raise ValidationError("The email address must end with an @email.com variation")
+    if value.split("@")[-1].lower() != "buffs.wtamu.edu":
+        raise ValidationError("The email address must end with an @buffs.wtamu.edu variation")
 
 class ChecklistForm(forms.Form):
-    Name = forms.CharField(required=True, min_length=1,max_length=20,widget=forms.EmailInput(attrs={"placeholder": "Your first name and last name"}))
+    Name = forms.CharField(required=True, min_length=1,max_length=20,widget=forms.TextInput(attrs={"placeholder": "Your first name and last name"}))
     # email validation
     Email = forms.EmailField(
         required=True, validators=[validate_email], widget=forms.EmailInput(attrs={"placeholder": "Your email address"}))

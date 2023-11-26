@@ -42,7 +42,7 @@ def checklist(request):
             for i, line in enumerate (mylist):
                 p.drawString(1 * cm, 29.7 * cm - 1 * cm - i * cm, line)
             p.save()
-            # csv export of course selection
+            # csv export of course selection at root of directory
             header = ['Degree selection']
             filename = 'degree_checklist.csv'
             try:
@@ -89,3 +89,12 @@ def upload(request):
         form = UploadForm()
 
     return render(request, "upload.html",{"form":form})
+
+# session for login
+def login(request):
+    m = Member.objects.get(username=request.POST["username"])
+    if m.check_password(request.POST["password"]):
+        request.session["member_id"] = m.id
+        return HttpResponse("You're logged in.")
+    else:
+        return HttpResponse("Your username and password didn't match.")
