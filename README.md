@@ -19,61 +19,61 @@ Navigate to the checklist and it will prompt a sign in as a user. An example use
   
 ## Baseline implementations:
 - **Chapter 1**
-- *Basic Views*
-- *URL Mapping*
-- *Templates*
-- *Routing*
+- *Basic Views* in checksheet.views.py
+- *URL Mapping* in checksheet.urls.py
+- *Templates* in checksheet.views.py
+- *Routing* in checksheet.views.py
 - **Chapter 2**
-- *Working with Databases*
-- *SQL*
-- *Django Models*
-- *Django Migrations*
+- *Working with Databases* as shown in checklist.html
+- *SQL* 
+- *Django Models* in checksheet.models.py
+- *Django Migrations* 
 - **Chapter 3 and 11**				
-- *Class-Based Views*			
-- *Function-Based Views*
-- *Django Template Language*
-- *Template Filters*		
+- *Class-Based Views*	in record_management.views.py		
+- *Function-Based Views* in checksheet.views.py
+- *Django Template Language* in home.html
+- *Template Filters* seen in home.html		
 - **Chapter 4 and 10**				
 - *Django Admin*   
 - **Chapter 5**				
-- *Static Files*		
-- *Static Urls*			
+- *Static Files* seen in degree_checksheet.py		
+- *Static Urls* seen in degree_checksheet.py			
 - **Chapter 6 and 7**				
-- *Django Forms Classes*
-- *Django ModelForm Class*
+- *Django Forms Classes* seen in checksheet.forms.py
+- *Django ModelForm Class* seen in checksheet.models.py
 - *Form data validation and retrieval*			
 - **Chapter 8**
-- *File Upload*				
+- *File Upload* seen in upload.html			
 - **Chapter 9**
-- *Sessions*
+- *Sessions* 
 - **Chapter 13**
-- *PDF Generation*
-- *CSV Generation(export)*
-- *Graphs and Visualizations*
+- *PDF Generation* seen in checklist.html
+- *CSV Generation(export)* seen in checklist.html
+- *Graphs and Visualizations* seen in graph.html
 - **Chapter 14**
-- *unittest in Django*
-- *Testing Models*
+- *unittest in Django* in checksheet.tests.py
+- *Testing Models* in checksheet.tests.py
 - **Chapter 15**
-- *python-dotenv or django-configurations*
+- *python-dotenv or django-configurations* seen in degree_checksheet.settings.py
 - *django-crispy-forms* seen in Checklist.html 	
 
 ## Good implmentations:
 - **Chapter 4 and 10**
-- *Customize Admin interface*
-- *Customize ModelAdmin classes x
+- *Customize Admin interface* seen at Django Admin webpage
+- *Customize ModelAdmin classes* seen in checksheet.adminconfig.py
 - **Chapter 5**
-- *Use front-end framework (bootstrap)*
-- *Cache invalidation x
+- *Use front-end framework (bootstrap)* seen in base.html
+- *dj-database-url* in degree_checklist settings.py
 - **Chapter 8**
-- *Serving Media Files*
-- *Passwords and Auth x
+- *Serving Media Files* seen in base.html
+- *Passwords and Auth* seen in Django Admin webpage
 ## Better implementations:
 - **Chapter 4 and 10**
-- *Add custom view to admin interface*
+- *Add custom view to admin interface* seen in Django Admin webpage
 - **Chapter 8**
-- *ModelForm and File Uploads*
+- *ModelForm and File Uploads* seen in admin/upload.html
 
 ## Best implementations:
 - **Chapter 12**
-- *Django Admin manage users x
-- *Django REST Framework*
+- *Django Admin manage users* seen in Django Admin webpage
+- *Django REST Framework* 
