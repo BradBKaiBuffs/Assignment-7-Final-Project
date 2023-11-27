@@ -16,6 +16,7 @@ Navigate to the checklist and it will prompt a sign in as a user. An example use
 - reportlab
 - djangorestframework
 - matplotlib
+- dj_database_url
   
 ## Baseline implementations:
 - **Chapter 1**
