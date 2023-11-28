@@ -16,6 +16,7 @@ Navigate to the checklist and it will prompt a sign in as a user. An example use
 - reportlab
 - djangorestframework
 - matplotlib
+- dj_database_url
   
 ## Baseline implementations:
 - **Chapter 1**
@@ -41,7 +42,7 @@ Navigate to the checklist and it will prompt a sign in as a user. An example use
 - **Chapter 6 and 7**				
 - *Django Forms Classes* seen in checksheet.forms.py
 - *Django ModelForm Class* seen in checksheet.models.py
-- *Form data validation and retrieval*			
+- *Form data validation and retrieval* see in checksheet.forms.py		
 - **Chapter 8**
 - *File Upload* seen in upload.html			
 - **Chapter 9**
