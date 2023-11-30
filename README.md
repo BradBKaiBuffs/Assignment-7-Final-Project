@@ -35,7 +35,7 @@ Navigate to the checklist and it will prompt a sign in as a user. An example use
 - *Django Template Language* in home.html
 - *Template Filters* seen in home.html		
 - **Chapter 4 and 10**				
-- *Django Admin*   
+- *Django Admin*
 - **Chapter 5**				
 - *Static Files* seen in degree_checksheet.py		
 - *Static Urls* seen in degree_checksheet.py			
@@ -55,7 +55,7 @@ Navigate to the checklist and it will prompt a sign in as a user. An example use
 - *unittest in Django* in checksheet.tests.py
 - *Testing Models* in checksheet.tests.py
 - **Chapter 15**
-- *python-dotenv or django-configurations* seen in degree_checksheet.settings.py
+- *python-dotenv or **django-configurations*** seen in degree_checksheet.settings.py
 - *django-crispy-forms* seen in Checklist.html 	
 
 ## Good implmentations:
@@ -77,4 +77,4 @@ Navigate to the checklist and it will prompt a sign in as a user. An example use
 ## Best implementations:
 - **Chapter 12**
 - *Django Admin manage users* seen in Django Admin webpage
-- *Django REST Framework* 
+- *Django REST Framework* seenin checksheet.api_views.py
