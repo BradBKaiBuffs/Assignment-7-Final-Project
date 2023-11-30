@@ -46,7 +46,7 @@ Navigate to the checklist and it will prompt a sign in as a user. An example use
 - **Chapter 8**
 - *File Upload* seen in upload.html			
 - **Chapter 9**
-- *Sessions* 
+- *Sessions* shown in checksheet/management/commands.session_info.py
 - **Chapter 13**
 - *PDF Generation* seen in checklist.html
 - *CSV Generation(export)* seen in checklist.html
