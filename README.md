@@ -10,6 +10,7 @@ Navigate to the checklist and it will prompt a sign in as a user. An example use
 - Password: **Checklist1!**
 
 ### Packages that are required:
+- django
 - django-crispy-forms
 - crispy-bootstrap4
 - django-configurations
