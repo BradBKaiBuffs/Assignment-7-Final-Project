@@ -34,8 +34,8 @@ class Dev(Configuration):
     # change for configuration from True to values.BooleanValue(True)
     DEBUG = values.BooleanValue(True)
     # chagne for configuration from [] to values.ListValue([])
-    ALLOWED_HOSTS = values.ListValue([])
-
+    ALLOWED_HOSTS = values.ListValue(['3.143.108.6'])
+    # ALLOWED_HOSTS = ['18.116.26.234']
 
     # Application definition
 

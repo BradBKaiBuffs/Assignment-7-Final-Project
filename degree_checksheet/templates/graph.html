@@ -3,9 +3,12 @@
 
 {% block content %}
     <ul>
-        <li>Test page</li>
+        <li>Graph</li>
     </ul>
     {%  autoescape off %}
         {{ graph_div|safe }}
+        <p>
+            <a href="{{ 3.143.108.6:8000 }}">Go to Home Page</a>
+        </p>
     {% endautoescape %}
 {% endblock %}
