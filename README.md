@@ -9,6 +9,10 @@ Navigate to the checklist and it will prompt a sign in as a user. An example use
 - Staff account: **Staff02**
 - Password: **Checklist1!**
 
+### Zip files
+Two zip files. One for the deployed version http://3.143.108.6:8000/ and for local host 127.0.0.1:8000
+The files affected are HTML links and had to create different versions for these.
+
 ### Packages that are required:
 - django
 - django-crispy-forms
